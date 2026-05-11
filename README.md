@@ -18,7 +18,7 @@
   6 - ulnar deviations, 
   7 - extended palm (the gesture was not performed by all subjects).
   ```
-- **划分：** 前 25 个文件夹为训练集，后 7 个文件夹为验证集（第 30 号文件夹强制划入训练集以保证 class 7 的跨人覆盖）
+- **划分：** 前 25 个文件夹为训练集，后 7 个文件夹为验证集
 
 ## 三、任务目标
 
